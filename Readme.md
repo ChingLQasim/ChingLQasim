@@ -17,12 +17,10 @@
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
 <hr>
-<center>
+<div align=center>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ChingLQasim">
-</center>
 <hr>
-
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=ChingLQasim&show_icons=true&theme=gotham"></a>
+<img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=ChingLQasim&show_icons=true&theme=gotham"></a>
 
 <hr>
 
