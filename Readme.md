@@ -1,4 +1,6 @@
+<hr>
 <h3 align="center">Hello there, I'm Alex 👋</h3>
+<hr>
 <h5 align="center">
 </h5>
 <br>
@@ -16,10 +18,8 @@
 
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
-<hr>
 <div align=center>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ChingLQasim&show_icons=true&theme=gotham">
-<hr>
 <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=ChingLQasim&show_icons=true&theme=gotham"></a>
 
 <hr>
